@@ -1,0 +1,38 @@
+body {
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    float: left;
+}
+
+.image {
+    height: auto;
+    width: 400px;
+    
+}
+
+.links {
+    font-size: large;
+    font-weight: bold;
+}
+
+.mainSection
+    {
+  width: 40%;
+  height: auto;
+  padding: 2px;
+  margin-left: 33.3%;
+}
+
+.section2 {
+    text-align: center;
+}
+
+
+h3 {
+    color: brown;
+}
+
+h1 {
+    color: darkred;
+}
